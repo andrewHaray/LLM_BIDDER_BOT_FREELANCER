@@ -21,7 +21,7 @@ An intelligent automated bidding bot for Freelancer.com with a modern web dashbo
 - **API**: Freelancer.com SDK
 
 ## 📋 Prerequisites
-
+- Add .env file and add orignal Keys
 - Python 3.8+
 - Node.js 16+
 - Freelancer.com account with API access
